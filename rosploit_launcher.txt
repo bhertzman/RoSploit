@@ -1,1 +1,1 @@
-Thanks for using rosploit launcher
+RoSploit Launcher is messed up, if u click Open RoJailed it crashes so just download it through the launcher then you should see a folder called rojailed when its done run the exe and it should work
